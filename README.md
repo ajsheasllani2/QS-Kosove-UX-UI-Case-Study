@@ -20,7 +20,7 @@ The Figma prototype link is available in:
 
 The final academic poster is available in:
 
-`file:///C:/Users/Lenovo/Downloads/QS_Kosove_Poster_No_Student_Name.html`
+`file:///C:/Users/Lenovo/Downloads/UXUI_Poster_2526_Gr5-QendraEStudenteve.html`
 
 ## Project Goal
 
